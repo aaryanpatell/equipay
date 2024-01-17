@@ -8,7 +8,7 @@ Our product is EquiPay, a group expense tracker and splitter that automatically 
 ## Getting started
 ```
 cd repo_folder
-git clone https://git.cs.usask.ca/370group_team20/equipay.git
+git clone https://aaryanpatell/equipay.git
 ```
 
 ## Running the Project
