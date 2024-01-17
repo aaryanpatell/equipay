@@ -31,3 +31,4 @@ npm start
 
 ## Project status
 Ongoing
+# equipay
